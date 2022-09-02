@@ -5,7 +5,7 @@
 - 📫 How to reach me: @ganeshamakara on twitter
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="500"/>
 </div>
 
 <!---
