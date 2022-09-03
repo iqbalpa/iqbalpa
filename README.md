@@ -1,28 +1,13 @@
-<div align="center">
-  <div id="header">
-    <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="350"/>
-  </div>
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/iqbalpahlevia/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/integralization">
-      <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" />
-    </a>
-    <a href="https://www.twitter.com/iiiiiiiiiiqbal">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-</div>
-
-
 <h2 align="center">Hai! I am Iqbal👋</h2>
-<div>
-   <h4>📖 Currently, I am studying Computer Science in University of Indonesia</h4>
-   <h4>🌱 I am highly interested in Artificial Intelligence and Web Development</h4>
-   <h4>📫 Reach me via Linkedin or Instagram or Twitter</h4>
-</div>
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300" align="right"/>
+
+- 📖 Currently, I am studying Computer Science in University of Indonesia
+
+- 🌱 I am highly interested in Artificial Intelligence and Web Development
+
+- 📫 Reach me via Linkedin or Instagram or Twitter
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -36,6 +21,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+<div align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/iqbalpahlevia/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/integralization">
+      <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://www.twitter.com/iiiiiiiiiiqbal">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
 </div>
 
 <!---
