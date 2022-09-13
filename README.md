@@ -8,7 +8,7 @@
 
 - 📫 Reach me via Linkedin or Instagram or Twitter
 
-- 📝Also, visit [my blog](https://iqbalpa.wordpress.com) to read my random thought
+- 📝 Also, visit [my blog](https://iqbalpa.wordpress.com) to read my random thought
 
 
 ---
