@@ -6,7 +6,7 @@
 
 - 🌱 I am highly interested in Artificial Intelligence and Web Development
 
-- 📫 Reach me via Linkedin or Instagram or Twitter
+- 📫 Reach me through Linkedin or Instagram or Twitter
 
 - 📝 Also, visit [my blog](https://iqbalpa.wordpress.com) to read my random thought
 
