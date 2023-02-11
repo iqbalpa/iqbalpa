@@ -1,4 +1,4 @@
-<h2 align="center">Hai! I am Iqbal👋</h2>
+<h2 align="center">Hai! I am Iqbal⚽</h2>
 
 - 📖 Currently, I am studying Computer Science in University of Indonesia
 
