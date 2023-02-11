@@ -8,11 +8,6 @@
 
 - 📝 Also, visit [my blog](https://iqbalpa.wordpress.com) to read my random thought
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalpa&layout=compact&theme=dark" />
-</div>
-
 ---
 <div align="center">
   <div id="badges">
