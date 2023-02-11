@@ -1,7 +1,5 @@
 <h2 align="center">Hai! I am Iqbal👋</h2>
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300" align="right"/>
-
 - 📖 Currently, I am studying Computer Science in University of Indonesia
 
 - 🌱 I am highly interested in Artificial Intelligence and Web Development
@@ -10,20 +8,6 @@
 
 - 📝 Also, visit [my blog](https://iqbalpa.wordpress.com) to read my random thought
 
-
----
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
 ---
 <div align="center">
@@ -39,11 +23,6 @@
     </a>
   </div>
 </div>
-
-<!---
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalpa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
---->
 
 <!---
 iqbalpa/iqbalpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
