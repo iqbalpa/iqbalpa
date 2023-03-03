@@ -6,7 +6,7 @@
 
 - 📫 Reach me through Linkedin or Instagram or Twitter
 
-- 📝 Also, visit [my blog](https://iqbalpa.wordpress.com) to read my random thought
+- 📝 Also, visit my [blog](https://iqbalpa.wordpress.com) to read my random thought or you can go through my [medium](https://iqbalpa.medium.com/) for a slightly better writing 
 
 ---
 <div align="center">
