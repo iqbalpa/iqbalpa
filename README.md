@@ -8,7 +8,7 @@
 
 - 📝 Visit my [blog](https://iqbalpa.wordpress.com) to read my random thought or you can go through my [medium](https://iqbalpa.medium.com/) for a slightly better writing 
 
-- 📊 Also, I do stuff in [kaggle](https://www.kaggle.com/iqbalpahlevi)
+- 📊 Also, I do stuff on [kaggle](https://www.kaggle.com/iqbalpahlevi)
 
 ---
 <div align="center">
