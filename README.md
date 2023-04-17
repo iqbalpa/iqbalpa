@@ -4,7 +4,7 @@
 
 - 🌱 I am highly interested in Artificial Intelligence and Web Development
 
-- 📫 Reach me through Linkedin or Instagram or Twitter
+- 📫 Reach me through Linkedin or Twitter
 
 - 📝 Visit my [blog](https://iqbalpa.wordpress.com) to read my random thought or you can go through my [medium](https://iqbalpa.medium.com/) for a slightly better writing contents
 
