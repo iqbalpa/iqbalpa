@@ -4,7 +4,7 @@
 
 - 🌱 I am highly interested in Artificial Intelligence and Web Development
 
-- 📫 Reach me through Linkedin or Twitter
+- 📫 Reach me through Linkedin or iqbalpahlevi@ristek.cs.ui.ac.id
 
 - 📝 Visit my [blog](https://iqbalpa.wordpress.com) to read my random thought or you can go through my [medium](https://iqbalpa.medium.com/) for a slightly better writing contents
 
@@ -13,9 +13,6 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/iqbalpahlevia/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.twitter.com/iiiiiiiiiiqbal">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
 </div>
