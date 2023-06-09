@@ -6,7 +6,7 @@
 
 - 📫 Reach me through Linkedin or iqbalpahlevi@ristek.cs.ui.ac.id
 
-- 📝 Visit my [blog](https://iqbalpa.wordpress.com) to read my random thought or you can go through my [medium](https://iqbalpa.medium.com/) for a slightly better writing contents
+- 📝 I do write sometimes on [medium](https://iqbalpa.medium.com/)
 
 ---
 <div align="center">
