@@ -2,11 +2,11 @@
 
 - 📖 Currently, I am studying Computer Science in University of Indonesia
 
-- 🌱 I am highly interested in Artificial Intelligence and Web Development
+- 🌱 I am highly interested in Machine Learning
 
 - 📫 Reach me through Linkedin or iqbalpahlevi@ristek.cs.ui.ac.id
 
-- 📝 I do write sometimes on [medium](https://iqbalpa.medium.com/)
+- 📝 I do write on [medium](https://iqbalpa.medium.com/) sometimes
 
 ---
 <div align="center">
