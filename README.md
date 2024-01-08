@@ -1,10 +1,10 @@
-<h2 align="center">Hai! I am Iqbal⚽</h2>
+<h2 align="center">Hi! I am Iqbal⚽</h2>
 
 - 📖 Currently, I am studying Computer Science in University of Indonesia
 
 - 🌱 I am highly interested in Machine Learning
 
-- 📫 Reach me through Linkedin or iqbalpahlevi@ristek.cs.ui.ac.id
+- 📫 Reach me through Linkedin or iqbalpahlevi07@gmail.com
 
 - 📝 I do write on [medium](https://iqbalpa.medium.com/) sometimes
 
