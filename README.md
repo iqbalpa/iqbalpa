@@ -53,10 +53,10 @@
 <h2>GitHub Stats🚀</h2>
 
 <div align="center">
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 40px;">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=iqbalpa&theme=tokyonight" />
   </div>
-  <div style="margin-top: 20px;">
+  <div style="margin-top: 40px;">
     <img height="200" src="https://streak-stats.demolab.com/?user=iqbalpa&theme=tokyonight-duo" />
   </div>
 </div>
