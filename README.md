@@ -53,12 +53,8 @@
 <h2>GitHub Stats🚀</h2>
 
 <div align="center">
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalpa&theme=tokyonight" />
-  </a>
-  <a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqbalpa&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-  </a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalpa&theme=tokyonight" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=iqbalpa&theme=tokyonight-duo" />
 </div>
 
 ---
