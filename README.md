@@ -53,9 +53,14 @@
 <h2>GitHub Stats🚀</h2>
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iqbalpa&theme=tokyonight" />
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=iqbalpa&theme=tokyonight-duo" />
+  <div style="margin-bottom: 20px;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=iqbalpa&theme=tokyonight" />
+  </div>
+  <div style="margin-top: 20px;">
+    <img height="200" src="https://streak-stats.demolab.com/?user=iqbalpa&theme=tokyonight-duo" />
+  </div>
 </div>
+
 
 ---
 <div align="center">
