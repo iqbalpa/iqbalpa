@@ -8,7 +8,7 @@
 
 - 📝 I do write on [medium](https://iqbalpa.medium.com/) sometimes
 
-- 🕸️ Visit my profile webiste [here](https://iqbalpa.vercel.app)
+- 🕸️ Visit my profile webiste [here](https://iqbalpahlevi.vercel.app)
 
 
 <h2>Languages🌐</h2>
