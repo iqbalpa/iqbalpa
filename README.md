@@ -92,6 +92,9 @@
   <div style="margin-top: 40px;">
     <img height="200" src="https://streak-stats.demolab.com/?user=iqbalpa&theme=tokyonight-duo" />
   </div>
+  <div style="margin-top: 40px;">
+    <img height="200" src="https://leetcard.jacoblin.cool/iqbalpa?theme=dark" />
+  </div>
 </div>
 
 
