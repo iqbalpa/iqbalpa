@@ -10,6 +10,8 @@
 
 - 🕸️ Visit my profile website [here](https://iqbalpahlevi.vercel.app)
 
+- 🐦 Let's be friend on [Twitter](https://x.com/iiiiiiiiiiqbal)
+
 
 <h2>Tehcnology and Tools 🌐</h2>
 
