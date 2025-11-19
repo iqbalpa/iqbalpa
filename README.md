@@ -1,6 +1,6 @@
 <div align="left">
   
-# Hi! I'm Iqbal (ee-k-ball) ⚽
+# Hi! I'm Iqbal ⚽
 
 Currently exploring software development and machine learning stuff.
 
