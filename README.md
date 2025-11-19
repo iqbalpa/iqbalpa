@@ -18,7 +18,7 @@ Currently exploring software development and machine learning stuff.
   - Traveloka (Aug 2024 - Feb 2025) - Software Engineer (Backend)
   - JAIST (Nov 2023 - Apr 2024) - Research Intern
  
-### Education 
+### 🏫 Education 
 - Universitas Indonesia (UI) - Summa Cumlaude
 - Publications
   - [Javanese honorific levels classification](https://ieeexplore.ieee.org/document/11156590) - IALP 2025 Malaysia
