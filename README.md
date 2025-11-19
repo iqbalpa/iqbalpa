@@ -36,7 +36,7 @@ Currently exploring software development and machine learning stuff.
     <a href="https://x.com/iiiiiiiiiiqbal">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
     </a>
-    <a href="https://tiktok.com/clearestskyyy">
+    <a href="https://tiktok.com/@clearestskyyy">
       <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white"/>
     </a>
   </div>
