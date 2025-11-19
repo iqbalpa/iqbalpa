@@ -12,11 +12,11 @@ Currently exploring software development and machine learning stuff.
 </div>
 
 ### 💻 Work
-- しろくま電力 Japan (Oct 2025 - present) - Software Engineer
+- しろくま電力 [Japan] (Oct 2025 - present) - Software Engineer
 - Internships
-  - しろくま電力 Remote (Aug 2025 - Oct 2025) - AI Engineer
-  - Traveloka (Aug 2024 - Feb 2025) - Software Engineer (Backend)
-  - JAIST (Nov 2023 - Apr 2024) - Research Intern
+  - しろくま電力 [Remote] (Aug 2025 - Oct 2025) - AI Engineer
+  - Traveloka [Indonesia] (Aug 2024 - Feb 2025) - Software Engineer (Backend)
+  - JAIST [Japan] (Nov 2023 - Apr 2024) - Research Intern
  
 ### 🏫 Education 
 - Universitas Indonesia (UI) - Summa Cumlaude
