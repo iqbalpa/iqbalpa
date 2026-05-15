@@ -2,7 +2,7 @@
   
 # Hi! I'm Iqbal ⚽
 
-Currently exploring software development and machine learning stuff.
+Love to explore about software development, infrastructure, and machine learning stuff.
 
 <p align="left" style="display:flex;gap:10px;justify-content:left;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Software%20Engineer-しろくま電力-blue?style=flat-square&logoColor=white" alt="Role badge" />
@@ -16,7 +16,7 @@ Currently exploring software development and machine learning stuff.
 - Internships
   - しろくま電力 [Remote] (Aug 2025 - Oct 2025) - AI Engineer
   - Traveloka [Indonesia] (Aug 2024 - Feb 2025) - Software Engineer (Backend)
-  - JAIST [Japan] (Nov 2023 - Apr 2024) - Research Intern
+  - JAIST [Japan] (Nov 2023 - Apr 2024) - AI Research Intern
  
 ### 🏫 Education 
 - Universitas Indonesia (UI) - Summa Cumlaude
