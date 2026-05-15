@@ -2,7 +2,7 @@
   
 # Hi! I'm Iqbal ⚽
 
-Love to explore about software development, infrastructure, and machine learning stuff.
+Love to explore software development, infrastructure, and machine learning stuff.
 
 <p align="left" style="display:flex;gap:10px;justify-content:left;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Software%20Engineer-しろくま電力-blue?style=flat-square&logoColor=white" alt="Role badge" />
