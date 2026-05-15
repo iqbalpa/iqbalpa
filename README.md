@@ -33,6 +33,9 @@ Currently exploring software development and machine learning stuff.
     <a href="https://medium.com/@iqbalpa">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
+    <a href="https://instagram.com/clearestskyyy">
+      <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>
+    </a>
     <a href="https://x.com/iiiiiiiiiiqbal">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
     </a>
