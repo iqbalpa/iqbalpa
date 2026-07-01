@@ -36,14 +36,14 @@ Love to explore software development, infrastructure, and machine learning stuff
     <a href="https://instagram.com/clearestskyyy">
       <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>
     </a>
-    <a href="https://x.com/iiiiiiiiiiqbal">
-      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-    </a>
     <a href="https://tiktok.com/@clearestskyyy">
       <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white"/>
     </a>
     <a href="https://www.youtube.com/@iqbalpahlevia">
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+    </a>
+    <a href="https://x.com/iiiiiiiiiiqbal">
+      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
     </a>
   </div>
 </div>
